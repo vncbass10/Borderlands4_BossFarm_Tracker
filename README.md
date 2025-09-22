@@ -23,6 +23,9 @@ A Lightweight overlay with hotkeys to keep track of Boss Farming in Borderlands 
   * Track Dedicated/ World / and No Drop(Commit a run with no other drops)
 
 ## Screenshots
-  ![Verbose](/relative/Screenshots/screenshot_verbose.png)
-  ![Compact](/relative/Screenshots/screenshot_compact.png)
-  ![Minimal](/relative/Screenshots/screenshot_mininmal.png)
+### Verbose Overlay
+  ![Verbose](/Screenshots/screenshot_verbose.png?raw=true "Verbose Overlay")
+### Compact Overlay
+  ![Compact](/Screenshots/screenshot_compact.png?raw=true "Compact Overlay")
+### Minimal Overlay
+  ![Minimal](/Screenshots/screenshot_minimal.png?raw=true "Minimal Overlay")
